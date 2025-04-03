@@ -1,0 +1,60 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Cheese and Macaroni Pizza",
+        "description": "Take pizza night to the next level with Macaroni and Cheese Pizza. This mac 'n cheese pizza recipe is easy to make for a fun family dinner!",
+        "image": "pics/2019_df_fs_k12_mac-and-cheese-pizza_900x600.jpg",
+        "prepTime": {
+          "total": "Approximately 30-35 minutes",
+          "preparation": "10 minutes",
+          "cooking": "20 minutes"
+        },
+        "ingredients": [
+          "Cooking spray",
+          "½ cups elbow macaroni",
+          "¼ cup unsalted butter",
+          "1 tablespoon all-purpose flour",
+          "1 cup milk, or as needed",
+          "12 ounces processed cheese food (such as Velveeta), cubed",
+          "1 (11 ounce) package refrigerated pizza crust",
+          "½ cup shredded mozzarella cheese"
+        ],
+        "instructions": [
+          "Preheat the oven to 400 degrees F (200 degrees C). Coat a 10x15-inch baking sheet with cooking spray.",
+          "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes. Drain.",
+          "Melt butter in a large saucepan over medium heat. Add flour; cook and stir until slightly toasted and fragrant, about 2 minutes. Whisk in enough milk to reach desired consistency; simmer until thickened, whisking constantly, 2 minutes. Stir in processed cheese cubes until melted and smooth, stirring often.",
+          "Unroll pizza crust; place on the prepared baking sheet. Spread about 3/4 cup cheese sauce on crust. Stir cooked macaroni into remaining cheese sauce; spoon onto crust in an even layer. Sprinkle pizza with mozzarella cheese.",
+          "Bake in the preheated oven until crust is lightly browned and mozzarella is golden brown, about 15 minutes."
+        ],
+        "nutrition": {
+          "calories": "411kcal",
+          "fat": "15g",
+          "carbs": "39g",
+          "protein": "19g"
+        },
+        "tags": [
+          "pizza",
+          "mac-and-cheese",
+          "comfort-food",
+          "family-friendly"
+        ],
+        "reviews": [
+          {
+            "id": 1,
+            "author": "Sarah K.",
+            "rating": 5,
+            "date": "November 20, 2023",
+            "comment": "My kids loved this recipe! Made it twice already this month."
+          },
+          {
+            "id": 2,
+            "author": "Mike T.",
+            "rating": 4,
+            "date": "November 18, 2023",
+            "comment": "Great combination of two favorites. I added some bacon bits for extra flavor."
+          }
+        ]
+      }
+    ]
+  }
